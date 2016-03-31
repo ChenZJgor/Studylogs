@@ -24,6 +24,7 @@ grammar_cjkRuby: true
 ![IIC开始与结束][3]
  6. List item
 
+
   [1]: ./images/从设备地址.jpg
-  [2]: ./images/IIC写入.jpg 
-  [3]: ./images/QQ%E6%88%AA%E5%9B%BE20160331172652.jpg
+  [2]: ./images/IIC写入.jpg
+  [3]: ./images/IIC%E9%80%9A%E8%AE%AF%E5%BC%80%E5%A7%8B.jpg "IIC通讯开始.jpg"
