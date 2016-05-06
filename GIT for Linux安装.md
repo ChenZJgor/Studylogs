@@ -1,4 +1,8 @@
-## GIT for Linux安装
+---
+title: GIT for Linux安装
+tags: GIT for Linux
+grammar_cjkRuby: true
+---
 
 因为最近在做CONTIKI系统应用的开发，要用到GIT。在Ubuntu上安装GIT时遇到一个问题，编译的时候报错
 

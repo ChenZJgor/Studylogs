@@ -1,7 +1,9 @@
-## CONTIKI应用之传感器驱动编写
+---
+title: CONTIKI应用之传感器驱动编写
+tags: CONTIKI,传感器驱动
+grammar_cjkRuby: true
+---
 
-
-----------
 
 在用CONTIKI系统做开发时，免不了编写各种传感器的驱动。现把开发时遇到的问题和得出的经验记录下来，以便以后总结。
 

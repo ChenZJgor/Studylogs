@@ -1,4 +1,8 @@
-### Ubuntu分区大小调整
+---
+title: Ubuntu分区大小调整
+tags: Ubuntu,分区
+grammar_cjkRuby: true
+---
 
 如果要调整系统分区，就要用到光盘版的GParted-LiveCD。
 

@@ -1,4 +1,8 @@
-## CONTIKI应用之IO口应用
+---
+title: CONTIKI应用之IO口应用 
+tags: CONTIKI,I/O口
+grammar_cjkRuby: true
+---
 
 在开发CONTIKI应用时，遇到的有关IO口的问题和得出的经验都记录在下文，以便以后总结。
 
